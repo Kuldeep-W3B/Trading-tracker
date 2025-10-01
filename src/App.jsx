@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
 import Home from "./pages/Home";
-import CoinDetail from "./pages/CoinDetail.jsx";
+import CoinDetail from "./pages/coindetail.jsx";
 
 function App() {
   return (
